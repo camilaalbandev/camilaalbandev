@@ -1,66 +1,51 @@
-<h1 data-importer="text" align="left">👋 Oi, eu sou a Camila!<br>💻 Sou desenvolvedora Front-end e gosto de criar interfaces bonitas, funcionais e fáceis de usar.<br><br>Atualmente estou estudando e desenvolvendo projetos para evoluir cada vez mais na área de tecnologia. Gosto de aprender na prática, testar coisas novas e transformar ideias em projetos reais.<br><br>🚀 Sobre mim<br>🎨 Meu foco é desenvolvimento Front-end<br>💡 Gosto de criar interfaces modernas e responsivas<br>📚 Estou sempre aprendendo algo novo<br>🛠️ Gosto de colocar meus conhecimentos em prática através de projetos<br>🌱 Busco evoluir um pouco a cada projeto<br><br>📂 Projetos<br>Aqui você pode encontrar alguns dos projetos que venho desenvolvendo durante minha jornada como desenvolvedora.<br><br>🌐 Portfólio: Meu portfólio</h1>
+<div align="center">
+👋 Oi, eu sou a Camila!
+💻 Front-end Developer • 🎨 UI & Interfaces • 🚀 Tecnologia
+<p> Desenvolvedora Front-end apaixonada por tecnologia e por transformar ideias em interfaces bonitas, funcionais e responsivas. </p> </div>
+🌷 Sobre mim
+🎨 Meu foco é desenvolvimento Front-end
+💡 Gosto de criar interfaces modernas e responsivas
+📚 Estou sempre aprendendo e explorando novas tecnologias
+🛠️ Gosto de aprender colocando meus conhecimentos em prática
+🌱 Busco evoluir a cada projeto e desafio
+💻 Tecnologias & Ferramentas
+🎨 Front-end
+<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" /> <img width="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" /> <img width="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" /> <img width="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" /> <img width="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" /> <img width="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" /> <img width="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="Tailwind CSS" /> </div>
+⚙️ Back-end & Banco de Dados
+<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" /> <img width="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" /> <img width="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" /> </div>
+🧰 Ferramentas
+<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" /> <img width="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" /> <img width="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" /> <img width="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" /> <img width="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="50" alt="AWS" /> </div>
+🚀 Projetos
+🌐 Meu Portfólio
 
-###
+Meu portfólio pessoal, onde apresento meus projetos, conhecimentos e minha evolução como desenvolvedora.
 
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-</div>
+🔗 Acessar meu portfólio
 
-###
+📂 Outros projetos
 
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/camila-alban-b39038431/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/its.camilaalban?igsi=aGNvMHVod3AzZTB3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://gitlab.com/camilaalbandev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  />
-  </a>
-</div>
+Aqui você pode encontrar projetos que desenvolvi durante meus estudos e minha jornada na área de tecnologia.
 
-###
+📊 GitHub
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=camilaalbandev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaalbandev&layout=compact&theme=dracula&hide_border=true" height="165" alt="Top Languages" /> </div>
+🏆 Conquistas
+<div align="center"> <img src="./trophy.svg" height="150" alt="GitHub Trophy" /> </div>
+🔥 Sequência de contribuições
+<div align="center"> <img src="https://streak-stats.demolab.com?user=camilaalbandev&theme=dracula&hide_border=true&border_radius=10" height="170" alt="GitHub Streak" /> </div>
+👾 Minhas contribuições
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/camilaalbandev/camilaalbandev/output/pacman-contribution-graph-dark.svg" />
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=camilaalbandev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/camilaalbandev/camilaalbandev/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/camilaalbandev/camilaalbandev/output/pacman-contribution-graph.svg" />
 
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/camilaalbandev/camilaalbandev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/camilaalbandev/camilaalbandev/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/camilaalbandev/camilaalbandev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+<img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/camilaalbandev/camilaalbandev/output/pacman-contribution-graph.svg" />
 </picture>
 
-###
+</div>
+🌐 Onde me encontrar
+<div align="center"> <a href="https://www.linkedin.com/in/camila-alban-b39038431/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://www.instagram.com/its.camilaalban/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="https://gitlab.com/camilaalbandev" target="_blank"> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /> </a> </div>
+<div align="center">
+✨ Obrigada por visitar meu perfil!
+
+💜 Sempre aprendendo, criando e evoluindo.
+
+</div>
